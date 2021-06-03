@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter written from Walshall, by a worthy gentleman to his friend in Oxford, concerning Burmingham.</title>
+         </titleStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88052</idno><idno type="EEBO-CITATION">99873243</idno>
+  <idno type="VID">155821</idno>
+  <idno type="EEBO-PROQUEST">2240943202</idno>
+  
+            <idno type="STC">Wing L1764</idno>
+            <idno type="STC">Thomason E96_22</idno>
+            <idno type="STC">ESTC R8177</idno>
+            <idno type="PROQUEST">99873243</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99873243e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88052)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155821)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 17:E96[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter written from Walshall, by a worthy gentleman to his friend in Oxford, concerning Burmingham.</title>
+                  <author>Worthy gentleman.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by H. Hall],</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>Printed in the yeare M.DC.XLIII. [1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aprill 14th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Birmingham (England) --  History, Military --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="errata">
+            <pb facs="tcp:155821:1"/>
+            <head>ERRATA.</head>
+            <p>Pag: 18. lin: 22. for butifie read, but fifty</p>
+            <p>P. 20. l. 16. for? note! and for! note?</p>
+            <p>P. 23. l. 16. inst read just</p>
+            <p>P. 27. l. 14. for therento read there, to l. 19. for? read,</p>
+            <p>Pag. 34. l. 23. for herby, read hereby</p>
+            <p>Pag. 35. li. 31. for civilty, read civility</p>
+            <p>Pag. 36. l. 17. read not hold l. 21. read Committees</p>
+            <p>Pag. 37. l. 4. read It may be l. 10. read Synod</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:155821:1"/>
+            <p> A LETTER Written from WALSHALL, <hi>By</hi> A Worthy Gentleman to his Friend in OXFORD, concerning BVRMINGHAM.</p>
+            <p>
+               <hi>Printed in the yeare M. DC. XLIII.</hi>
+            </p>
+            <pb facs="tcp:155821:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:155821:2"/>
+            <head>A LETTER WRITTEN FROM WALSHALL by a Worthy Gentle<g ref="char:EOLhyphen"/>man to his friend in <hi>Oxford</hi> concer<g ref="char:EOLhyphen"/>ning BURMINGHAM.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Earing of the approach of Prince <hi>Rupert</hi> his Highnesse, and com<g ref="char:EOLhyphen"/>ming according to my duty to at<g ref="char:EOLhyphen"/>tend him, In my way I heard of the miserable destruction of <hi>Bur<g ref="char:EOLhyphen"/>ningham</hi> by fire; which I must confesse tooke the deepest Apprehension with me of any one accident since the begining of these unhappy di<g ref="char:EOLhyphen"/>stractions, as presenting to my veiw a Picture of the present estate of <hi>Germany,</hi> and as by a Pros<g ref="char:EOLhyphen"/>pective shewing me (not very farre off) the Scene translated from thence hither. This sad
+<pb n="2" facs="tcp:155821:3"/> thought drew me to a more narrow enquiry of the causes of the burning of the Towne, and whethet it was done by authority or no. And I found that the Inhabitants of that Towne were they who first stirred up those of <hi>Coventry</hi> to resist the King, and that about 300 from thence went into <hi>Coventry</hi> to defend it against the Kings Forces, that from thence they sent 15000 Swords for the Earle of <hi>Essex</hi> his Forces and the ayd of that Party, and not onely refused to sup<g ref="char:EOLhyphen"/>ply the Kings Forces with swords for their mo<g ref="char:EOLhyphen"/>ney, but imprisoned diverse who bought swords, upon suspicion that they intended to sup<g ref="char:EOLhyphen"/>ply the King's Forces with them. That after<g ref="char:EOLhyphen"/>wards when His Majesty marched that way with His Army, out of His Princely goodnesse and in hope that His Grace and favour would prevayle wirh them to turne good Subjects, he gave expresse order that they should not be plundered, and because some were plundered (though but a few and very little taken from them) there was exemplary Iustice done by the hanging of two Officers, And they had a speci<g ref="char:EOLhyphen"/>all protection granted to them.</p>
+            <p>Yet so little use did they make of the Kings
+<pb n="3" facs="tcp:155821:3"/> Clemency, that the Kings Army was no sooner removed from thence but they stayed all the Carriages which did not move the same day with the Kings Army, amongst which was some of the Kings Plate and diverse goods of great value, and therein they were so hearty and zealous that at their owne charges they carried them to <hi>VVarwicke</hi> Castle before the King was out of that Shire.</p>
+            <p>And they have still Continued upon all occasi<g ref="char:EOLhyphen"/>ons violently to oppose the King, and to ayd those who have taken up armes against him. In<g ref="char:EOLhyphen"/>somuch that they made fortifications about the Town, and sent out parties to plunder the Kings freinds. And when his Highnesse upon Mun<g ref="char:EOLhyphen"/>day last sent one to them to take up his quarter at <hi>Burmingham,</hi> who assured them that if they would quietly receive his Highnesse and his for<g ref="char:EOLhyphen"/>ces they should suffer no injury, But otherwise they must expect to be forced to it, they refused to give him Entrance, and prepared themselves with all their strength to resist him; and when his Forces drew neare they set up their Colours, and sallyed out of their workes, and gave fire u<g ref="char:EOLhyphen"/>pon them, and with opprobrious speeches revi<g ref="char:EOLhyphen"/>led
+<pb n="4" facs="tcp:155821:4"/> them, calling them <hi>Cursed doggs, devilish Ca<g ref="char:EOLhyphen"/>valiers, Popish Traytors,</hi> and this was done not by a few of them but by almost all of them with great shouts and clamours. This could not but incense the souldiers, and the Prince to make his passage into the Towne was forced to give or<g ref="char:EOLhyphen"/>der for firing a house or two; but they retiring and flying, upon his entrance into the Towne he immediately gave order for quenching of the Fire, which was done accordingly, and no more hurt was done on Munday. But yesterday his Highnesse being to march from thence, and fear<g ref="char:EOLhyphen"/>ing what those great Provocations might worke with the souldiers, he gave expresse Command that no souldier should attempt to fire the Towne. And after his departure thence some souldiers (as yet unknown) having fired the Towne in diverse places, he immediatly sent to the inhabitants of the Towne, to let them know it was not done by his command, and therefore wished them to quench it, but the wind being high and the Fire encreased, it could not be so soone extinguished as was to be desired.</p>
+            <p>One thing more I heard of at this taking of <hi>Burmingham,</hi> which made some Impression
+<pb n="5" facs="tcp:155821:4"/> with me, which was the death of a minister kil<g ref="char:EOLhyphen"/>led presently after the entry of the souldiers into the Towne. But it is alleadged that he told the soldier who killed him, that the King was a Perjured and Papisticall King, and that he had rather dye then live under such a King, and that he did and would fight against him; and in his Pocket after his death were found some Papers sufficient to make mee to beleeve the man was either mad, or one of the new Enthusiasts. It burdens my modesty to repeat them, but the truth (which you will desire to know) extorts them from mee▪ some of them were to this ef<g ref="char:EOLhyphen"/>fect, that the 28 of March last he had a com<g ref="char:EOLhyphen"/>fortable kisse from M<seg rend="sup">ris</seg>
+               <hi>E.</hi> with some moyst<g ref="char:EOLhyphen"/>nesse, and another day a Cynamon kisse from a<g ref="char:EOLhyphen"/>nother woman, and another from one of 14 yeares old, with much more such like stuffe which I blush to write.</p>
+            <p>And surely whatsoever the Principles of these Teachers may be, the conclusions made by their Disciples is very strange. One of the best sort of their Prisoners here being discoursed withall concerning his taking up armes against the King, and demanded how he could take up
+<pb n="6" facs="tcp:155821:5"/> armes in that manner considering his oaths of Allegeance and Supremacy, peremptorily an<g ref="char:EOLhyphen"/>swered, he never did nor never would take those oaths.</p>
+            <p>Sir, this I thought fit to write to you while the memory of the businesse is fresh; and though it be accompanied with these Circumstances, yet it much troubles his Highnesse that this Accident should now fall out, he well knowing that they who are the great <hi>Boute fieus</hi> and Incendiaries in the State, will be apt to Calumniate him for the firing of this Towne, which he never Com<g ref="char:EOLhyphen"/>manded or Countenanced, and the actors of which he is most desirous to punish, and is most carefull to find out, And this narrative now made you may be confident is true, comming from</p>
+            <closer>
+               <signed>Your most humble and faithfull servant.</signed>
+               <dateline>
+                  <hi>Walshall</hi>
+                  <date>
+                     <hi>Apr.</hi> 5. 1643.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
